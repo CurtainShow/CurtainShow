@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allan Barbot</h1>
-<h3 align="center">A passionate middleware developer from France <img src="https://cdn-icons.flaticon.com/png/512/3187/premium/3187696.png?token=exp=1634077025~hmac=663fbe99c066822ad5eaca1429571ae2" width="20"/> </h3>
+<h3 align="center">A passionate middleware developer from France <img src="https://cdn-icons-png.flaticon.com/512/3909/3909323.png" width="20"/> </h3>
 
 - 💻 I’m currently working on [Data Quality](https://www.informatica.com/fr/)
 
