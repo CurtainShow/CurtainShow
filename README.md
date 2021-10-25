@@ -44,8 +44,8 @@
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/SQLServer-00000F?style=for-the-badge&logo=sqlserver&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/MySQL-FF6C37?style=for-the-badge&logo=mysql&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/SQLServer-FF2D20?style=for-the-badge&logo=sqlserver&logoColor=white" height="25"> 
 
 
 <br>
@@ -59,7 +59,7 @@
 
 
 <br>
-<img src="https://img.shields.io/badge/gsap.js-000000?style=for-the-badge&logo=gsap.js&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/gsap.js-43853D?style=for-the-badge&logo=gsap.js&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" height="25">
